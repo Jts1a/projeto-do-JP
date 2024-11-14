@@ -1,0 +1,12 @@
+body {
+ color: aliceblue;
+ background-color: rgb(140, 16, 16);
+ margin: 50px;
+}
+
+header  { 
+border-bottom: 3px solid rgb(4, 4, 4);;
+padding: 20px;
+ font-size: 32px;
+ color:rgb(4, 4, 4);
+}
